@@ -1,0 +1,37 @@
+In this lesson we will learn how to make a project.
+
+
+main.py is where we control the code (the conductor)
+myCode.py is where we write the functions (instruments)
+
+
+
+1) make a function in myCode.py 
+
+
+#(copy this)
+def testIt():
+	x = "it works"
+	print(x)
+
+
+
+2) to use the function you must import it into main.py
+go to main.py.
+
+#copy this code (it must be at the top.)
+from myCode import *
+
+testIt()
+
+3) run the test to see if the code is working (tick mark on left)
+
+4) if you break the code, copy the code from backup.py into myCode.py to start again. 
+
+This will be the same for each lesson. 
+
+5) use tab to indent. Do not use spaces. Check your spelling. These two things are the most common errors. 
+
+
+
+
